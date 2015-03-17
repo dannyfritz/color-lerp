@@ -1,0 +1,32 @@
+{
+  "name": "color-lerp",
+  "version": "1.0.0",
+  "description": "Linear Interpolation between two colors.",
+  "main": "index.js",
+  "dependencies": {
+    "color": "^0.8.0",
+    "funcdash": "^0.5.2",
+    "lerp": "^1.0.3",
+    "lodash-fp": "^0.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^0.17.0",
+    "npm-stare": "^1.0.2",
+    "tap-min": "^1.0.0",
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "stare": "npm-stare",
+    "test": "eslint lib && tape ./test/*.js | tap-min"
+  },
+  "stare": {
+    "test": {
+      "path": [
+        "lib/",
+        "test/"
+      ]
+    }
+  },
+  "author": "Danny Fritz <dannyfritz@gmail.com>",
+  "license": "MIT"
+}

@@ -30,7 +30,7 @@ colorLerp('#FF0000', '#00FF00', 2, 'rgb');
 
 ## API
 
-### colorLerp(color1, color2, steps, [format='hsl']) -> range
+### colorLerp(color1, color2, steps, [format='hsl']) → range
 
 #### `color1`:`String` & `color2`:`String`
 

@@ -1,7 +1,7 @@
 {
   "name": "color-lerp",
   "version": "1.0.3",
-  "description": "Linear Interpolation between two colors.",
+  "description": "Create a range of colors in an Array by linear interpolation.",
   "main": "index.js",
   "files": [
     "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dannyfritz/color-lerpdash"
+    "url": "https://github.com/dannyfritz/color-lerp"
   },
   "bugs": {
     "url": "https://github.com/dannyfritz/color-lerp/issues"

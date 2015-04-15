@@ -1,12 +1,12 @@
 {
   "name": "color-lerp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linear Interpolation between two colors.",
   "main": "index.js",
-	"files": [
-		"index.js",
-		"lib"
-	],
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "dependencies": {
     "color": "^0.8.0",
     "lerp": "^1.0.3",
@@ -18,7 +18,7 @@
     "tap-min": "^1.0.0",
     "tape": "^3.5.0"
   },
-	"repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/dannyfritz/color-lerpdash"
   },
@@ -44,7 +44,7 @@
     "lerp",
     "spectrum",
     "scale",
-		"values",
-		"range"
+    "values",
+    "range"
   ]
 }

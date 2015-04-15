@@ -58,7 +58,7 @@ Valid formats:
 * `percent` *ex. rgb(100%, 0%, 0%)*
 * `%` *ex. rgb(100%, 0%, 0%)*
 * `hsl` *ex. hsl(255, 100%, 50%)*
-* `hsla` *ex. hsl(255, 100%, 50%, 1)*
+* `hsla` *ex. hsla(255, 100%, 50%, 1)*
 * `hwb` *ex. hwb(0, 0%, 0%)*
 * `color` *ex. color Object*
 

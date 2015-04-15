@@ -1,6 +1,6 @@
 {
   "name": "color-lerp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Linear Interpolation between two colors.",
   "main": "index.js",
   "files": [

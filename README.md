@@ -1,3 +1,6 @@
+[![MIT](https://img.shields.io/npm/l/color-lerp.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![npm](https://img.shields.io/npm/v/color-lerp.svg?style=flat-square)](https://www.npmjs.com/package/color-lerp)
+
 # color-lerp
 
 Creates arbitrary size ranges of colors given 2 colors and a size.

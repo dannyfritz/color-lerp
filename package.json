@@ -5,7 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "color": "^0.8.0",
-    "funcdash": "^0.5.2",
     "lerp": "^1.0.3",
     "lodash-fp": "^0.5.1"
   },

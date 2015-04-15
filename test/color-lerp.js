@@ -42,7 +42,7 @@ test('advanced multi-lerp test', function (t) {
 test('rgb color format', function (t) {
 	t.plan(1);
 	var input, expected, output;
-	input = ['hsl(0, 100%, 50%)', 'hsl(120, 100%, 50%)', 2, 'rgb'];
+	input = ['#FF0000', '#00FF00', 2, 'rgb'];
 	expected = ['rgb(255, 0, 0)', 'rgb(0, 255, 0)'];
 	output = fillColorGaps(input[0], input[1], input[2], input[3]);
 	t.deepEqual(output, expected, 'Expected same colors back in rgb.');

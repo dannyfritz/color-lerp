@@ -1,6 +1,6 @@
 {
   "name": "color-lerp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create a range of colors in an Array by linear interpolation.",
   "main": "index.js",
   "files": [

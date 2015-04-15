@@ -55,8 +55,8 @@ Valid formats:
 * `hex` *ex. #ff0000*
 * `rgb` *ex. rgb(255, 0, 0)*
 * `rgba` *ex. rgba(255, 0, 0, 1)*
-* `percent` *ex. rgba(100%, 0%, 0%)*
-* `%` *ex. rgba(100%, 0%, 0%)*
+* `percent` *ex. rgb(100%, 0%, 0%)*
+* `%` *ex. rgb(100%, 0%, 0%)*
 * `hsl` *ex. hsl(255, 100%, 50%)*
 * `hsla` *ex. hsl(255, 100%, 50%, 1)*
 * `hwb` *ex. hwb(0, 0%, 0%)*

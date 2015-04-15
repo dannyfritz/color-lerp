@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Linear Interpolation between two colors.",
   "main": "index.js",
+	"files": [
+		"index.js",
+		"lib"
+	],
   "dependencies": {
     "color": "^0.8.0",
     "lerp": "^1.0.3",
@@ -13,6 +17,13 @@
     "npm-stare": "^1.0.2",
     "tap-min": "^1.0.0",
     "tape": "^3.5.0"
+  },
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/dannyfritz/color-lerpdash"
+  },
+  "bugs": {
+    "url": "https://github.com/dannyfritz/color-lerp/issues"
   },
   "scripts": {
     "stare": "npm-stare",
@@ -27,5 +38,13 @@
     }
   },
   "author": "Danny Fritz <dannyfritz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "color",
+    "lerp",
+    "spectrum",
+    "scale",
+		"values",
+		"range"
+  ]
 }
